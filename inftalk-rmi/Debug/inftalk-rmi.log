@@ -1,3 +1,4 @@
 ﻿  Client-Server.cpp
   Unknown compiler version - please run the configure tests and report the results
+c:\users\pabll\source\repos\inftalk-rmi\inftalk-rmi\client-server.cpp(134): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
   inftalk-rmi.vcxproj -> C:\Users\pabll\source\repos\inftalk-rmi\Debug\inftalk-rmi.exe
